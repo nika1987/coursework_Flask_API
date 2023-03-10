@@ -55,4 +55,4 @@ class ConfigFactory:
         raise NotImplementedError
 
 
-config = ConfigFactory.get_config()
+#config = ConfigFactory.get_config()
